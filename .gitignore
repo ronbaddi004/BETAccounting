@@ -110,5 +110,5 @@ ENV/
 
 # mypy
 .mypy_cache/
-config/settings.py
+config/old_settings.py
 config/settings/local.py
